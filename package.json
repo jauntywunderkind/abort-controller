@@ -1,8 +1,9 @@
 {
-  "name": "abort-controller",
-  "version": "3.0.0",
+  "name": "@jauntywunderkind/abort-controller",
+  "version": "3.0.1",
   "description": "An implementation of WHATWG AbortController interface.",
-  "main": "dist/abort-controller",
+  "main": "dist/abort-controller.mjs",
+  "type": "module",
   "files": [
     "dist",
     "polyfill.*",
